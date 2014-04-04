@@ -1,3 +1,5 @@
 Recovery
 ========
-Android App run the Recovery
+Android App 
+
+Open the Recovery mode
